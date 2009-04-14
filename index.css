@@ -28,6 +28,8 @@ body {
         margin-left: 0;}
     body .container a {
       color: #8ADEE2; }
+    body .container .term {
+      font-weight: bold; }
     body .container code {
       margin-left: 1em;
       padding: .5em;

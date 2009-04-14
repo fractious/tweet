@@ -13,6 +13,8 @@
       padding: .5em; }
       .tweet .tweet_list li a {
         color: #0C717A; }
+      .tweet .tweet_list li .term {
+        font-weight: bold; }
     .tweet .tweet_list .tweet_even {
       background-color: #91E5E7; }
     .tweet .tweet_list .tweet_avatar {
