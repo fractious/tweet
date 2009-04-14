@@ -21,6 +21,7 @@ put twitter on your website with tweet!, an unobtrusive javascript plugin for jq
   * automatic linking of @replies to users’ twitter page
   * automatic linking of URLs
   * automatic linking of #hashtags, to a twitter search of all your tags
+  * automatic highlighting of search terms
   * converts <3 to a css styleable ♥ (we ♥ hearts)
   * customize the style with your own stylesheet or with other jquery plugins
 
